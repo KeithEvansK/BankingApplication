@@ -1,0 +1,16 @@
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\bin\Debug\net8.0-windows\BankAccountProject.exe
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\bin\Debug\net8.0-windows\BankAccountProject.deps.json
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\bin\Debug\net8.0-windows\BankAccountProject.runtimeconfig.json
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\bin\Debug\net8.0-windows\BankAccountProject.dll
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\bin\Debug\net8.0-windows\BankAccountProject.pdb
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.BankAccount.resources
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.csproj.GenerateResource.cache
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.AssemblyInfoInputs.cache
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.AssemblyInfo.cs
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.csproj.CoreCompileInputs.cache
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.dll
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\refint\BankAccountProject.dll
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.pdb
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\BankAccountProject.genruntimeconfig.cache
+C:\Users\KEKei\source\repos\BankAccountProject\BankAccountProject\obj\Debug\net8.0-windows\ref\BankAccountProject.dll
